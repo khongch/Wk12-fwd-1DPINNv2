@@ -1,0 +1,25 @@
+{
+  "config": {
+    "case": "C_moving_source",
+    "K": 2,
+    "seed": 0,
+    "pe": 20.0,
+    "theta_true": [
+      1.0,
+      0.04,
+      30.0
+    ],
+    "fo_end": 0.016,
+    "nx": 200,
+    "nf": 160,
+    "provenance": "cell-29 converged run"
+  },
+  "env": {
+    "python": "3.12.13",
+    "numpy": "2.5.0",
+    "torch": "2.10.0",
+    "platform": "macOS-26.6.1-arm64-arm-64bit",
+    "frozen_utc": "2026-08-12T00:35:52Z"
+  },
+  "sha256": "1e21c3357f244c7c04ce2fea53f6cf0c0bd588003ab88bc00e8e64e3276a854e"
+}
