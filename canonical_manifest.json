@@ -19,7 +19,7 @@
     "numpy": "2.5.0",
     "torch": "2.10.0",
     "platform": "macOS-26.6.1-arm64-arm-64bit",
-    "frozen_utc": "2026-08-12T00:35:52Z"
+    "frozen_utc": "2026-08-13T02:28:28Z"
   },
-  "sha256": "1e21c3357f244c7c04ce2fea53f6cf0c0bd588003ab88bc00e8e64e3276a854e"
+  "sha256": "b35a753fcb0d739ad85e805749bc6963d70b8c6c0149782b5702b6d6ca355f98"
 }
